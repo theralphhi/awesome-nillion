@@ -16,7 +16,7 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 
 >  ⚠️⚠️⚠️ **If you are submitting for Near Redacted Hackathon - check this [LINK](https://github.com/NillionNetwork/awesome-nillion/issues/2)**: 
 
-## Table of Contents
+### Table of Contents
 1. [What is Nillion](#what-is-nillion)
 2. [Technical Papers](#technical-papers)
 3. [Videos](#videos)
